@@ -1,0 +1,8 @@
+{
+  "name": "Risk Assessment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fe198594"
+}
